@@ -1,4 +1,4 @@
-##Exploratory Data Analysis
+# Exploratory Data Analysis
 
 Here are 8 files for the "Explorartory Data Analysis" Course Project 1: 4 png files and 4 scripts.
 
